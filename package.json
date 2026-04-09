@@ -1,0 +1,15 @@
+{
+  "name": "tts-test",
+  "version": "1.0.0",
+  "description": "OpenAI TTS speaker test - minimal web server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
